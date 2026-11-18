@@ -1,0 +1,4 @@
+interface:
+  display_name: "snow-rain"
+  short_description: "参考刘雪宇署名论文组织论证与语言，规划会议篇幅、图表及段末排版"
+  default_prompt: "请用 $snow-rain，根据我的真实研究材料组织论文，规划章节篇幅与图表，落实写满会议页数、清除段末短行和正文无破折号冒号等要求。"

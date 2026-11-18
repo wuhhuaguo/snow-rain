@@ -1,0 +1,2158 @@
+{
+  "as_of": "2026-11-18",
+  "identity_homepage": "https://xueyuliu.github.io/",
+  "scope": "公开可检索论文及预印本工作清单；不等于已证明穷尽的全部出版物",
+  "papers": [
+    {
+      "title": "A Dual-branch Network with Cross-scale Feature Interaction and Alignment for Weakly Supervised Whole Slide Image Analysis",
+      "year": 2026,
+      "dois": [
+        "https://doi.org/10.1109/jbhi.2026.3702553"
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1109/jbhi.2026.3702553"
+      ],
+      "authors": [
+        "Jianan Zhang",
+        "Hangbei Cheng",
+        "Xueyu Liu",
+        "Feixue Shao",
+        "Junxin Chen",
+        "Guanghui Yue",
+        "Yongfei Wu",
+        "Weihua Yang"
+      ],
+      "identity_evidence": [
+        "Crossref作者单位为太原理工大学"
+      ],
+      "fulltexts": [],
+      "venue": "IEEE Journal of Biomedical and Health Informatics",
+      "id": "LX01",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1109/jbhi.2026.3702553",
+          "final_url": "https://ieeexplore.ieee.org/document/11557133/",
+          "http_status": 202,
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Attack for Defense: Adversarial Agents for Point Prompt Optimization Empowering Segment Anything Model",
+      "year": 2026,
+      "dois": [
+        "https://doi.org/10.48550/arxiv.2509.18891"
+      ],
+      "sources": [
+        "https://openalex.org/W4415251431",
+        "https://xueyuliu.github.io/#publications",
+        "https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Attack_for_Defense_Adversarial_Agents_for_Point_Prompt_Optimization_Empowering_CVPR_2026_paper.html",
+        "https://arxiv.org/abs/2509.18891v1"
+      ],
+      "authors": [
+        "Xueyu Liu",
+        "Xiaoyi Zhang",
+        "Shi, Guangze",
+        "Meilin Liu",
+        "Yexin Lai",
+        "Yongfei Wu",
+        "Mingqiang Wei"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "作者主页列出",
+        "全文作者单位与姓名匹配"
+      ],
+      "fulltexts": [
+        {
+          "source": "https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Attack_for_Defense_Adversarial_Agents_for_Point_Prompt_Optimization_Empowering_CVPR_2026_paper.html",
+          "version": "CVPR正式录用版",
+          "author_role": "共同第一作者（正式版）"
+        },
+        {
+          "source": "https://arxiv.org/abs/2509.18891v1",
+          "version": "早期预印本，正式版优先",
+          "author_role": "共同第一作者（正式版）；早期版作者表有变化"
+        }
+      ],
+      "venue": "CVPR",
+      "oa_locations": [
+        "https://arxiv.org/pdf/2509.18891",
+        "https://doi.org/10.48550/arxiv.2509.18891"
+      ],
+      "homepage_year": 2026,
+      "tag": "PPD",
+      "author_role": "共同第一作者（正式版）；早期版作者表有变化",
+      "id": "LX02",
+      "access": "FULL",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "note": "2025预印本与2026正式版同一工作；作者表与版式发生变化",
+      "style_eligible": true,
+      "evidence_reference": "evidence-map.md"
+    },
+    {
+      "title": "Brain-Inspired Capture: Evidence-Driven Neuromimetic Perceptual Simulation for Visual Decoding",
+      "year": 2026,
+      "dois": [
+        "https://doi.org/10.48550/arxiv.2604.17927"
+      ],
+      "sources": [
+        "https://openalex.org/W7155102316",
+        "https://arxiv.org/abs/2604.17927v1"
+      ],
+      "authors": [
+        "Feixue Shao",
+        "Guangze Shi",
+        "Xueyu Liu",
+        "Yongfei Wu",
+        "Mingqiang Wei",
+        "Jianan Zhang",
+        "Jianbo Lu",
+        "Guiying Yan",
+        "Weihua Yang"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "全文作者单位与姓名匹配"
+      ],
+      "fulltexts": [
+        {
+          "source": "https://arxiv.org/abs/2604.17927v1",
+          "version": "预印本；页眉不作为正式发表证据",
+          "author_role": "合作作者"
+        }
+      ],
+      "venue": "arXiv (Cornell University)",
+      "oa_locations": [
+        "https://arxiv.org/pdf/2604.17927",
+        "https://doi.org/10.48550/arxiv.2604.17927"
+      ],
+      "tag": "BICAP",
+      "author_role": "合作作者",
+      "id": "LX03",
+      "access": "FULL",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": true,
+      "evidence_reference": "evidence-map.md"
+    },
+    {
+      "title": "Depth-conditioned adversarial learning with dual discriminators for polyp segmentation",
+      "year": 2026,
+      "dois": [
+        "https://doi.org/10.1016/j.bspc.2026.109587"
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1016/j.bspc.2026.109587"
+      ],
+      "authors": [
+        "Haiyu Wang",
+        "Jianan Zhang",
+        "Xueyu Liu",
+        "Yongfei Wu",
+        "Di Huang"
+      ],
+      "identity_evidence": [
+        "Crossref同名作者与已知合作者重合；归属待全文复核"
+      ],
+      "fulltexts": [],
+      "venue": "Biomedical Signal Processing and Control",
+      "id": "LX04",
+      "access": "METADATA_ONLY",
+      "identity_status": "候选：合作网络支持，未获单位直接确认",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1016/j.bspc.2026.109587",
+          "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S1746809426001412",
+          "http_status": 200,
+          "content_type": "text/html;charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Dual-Stream Attention-Guided Learning for Weakly Supervised Whole Slide Image Classification",
+      "year": 2026,
+      "dois": [],
+      "sources": [
+        "https://xueyuliu.github.io/#publications",
+        "https://arxiv.org/abs/2505.23341v3"
+      ],
+      "authors": [],
+      "identity_evidence": [
+        "作者主页列出",
+        "全文作者单位与姓名匹配"
+      ],
+      "fulltexts": [
+        {
+          "source": "https://arxiv.org/abs/2505.23341v3",
+          "version": "2026修订预印本；主页列EAAI",
+          "author_role": "通讯作者"
+        }
+      ],
+      "venue": "EAAI",
+      "homepage_year": 2026,
+      "tag": "DSAGL",
+      "author_role": "通讯作者",
+      "id": "LX05",
+      "access": "FULL",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": true,
+      "evidence_reference": "evidence-map.md"
+    },
+    {
+      "title": "Explainable AI in Medicine: A Comprehensive Narrative Review of Methods, Applications, and Future Directions",
+      "year": 2026,
+      "dois": [
+        "https://doi.org/10.1111/exsy.70259"
+      ],
+      "sources": [
+        "https://openalex.org/W7160435035",
+        "https://api.crossref.org/works/10.1111/exsy.70259",
+        "https://xueyuliu.github.io/#publications"
+      ],
+      "authors": [
+        "H J Wang",
+        "Guangze Shi",
+        "Xueyu Liu",
+        "J Zhang",
+        "Sheng Chen",
+        "Jiashuo Shi",
+        "Yu‐ang Li",
+        "Guanghui Yue",
+        "Yongfei Wu"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "Crossref作者单位为太原理工大学",
+        "作者主页列出"
+      ],
+      "fulltexts": [],
+      "venue": "Review",
+      "oa_locations": [],
+      "homepage_year": 2026,
+      "id": "LX06",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1111/exsy.70259",
+          "final_url": "https://onlinelibrary.wiley.com/doi/10.1111/exsy.70259",
+          "http_status": 403,
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Instruction-Focus-Prompt: Semantics-Driven Structural Prompts for Universal SAM Segmentation",
+      "year": 2026,
+      "dois": [
+        "https://doi.org/10.1109/cvprf71909.2026.00721"
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1109/cvprf71909.2026.00721",
+        "https://xueyuliu.github.io/#publications",
+        "https://openaccess.thecvf.com/content/CVPR2026F/html/Xia_Instruction-Focus-PromptSemantics-Driven_Structural_Prompts_for_Universal_SAM_Segmentation_CVPRF_2026_paper.html"
+      ],
+      "authors": [
+        "Shuqi Xia",
+        "Guangze Shi",
+        "Jiarui Cao",
+        "Aoyuan Shi",
+        "Meilin Liu",
+        "Xiaoyi Zhang",
+        "Yujie Wang",
+        "Xueyu Liu",
+        "Cai Zhao",
+        "Ziyuan He",
+        "Yongfei Wu",
+        "Mingqiang Wei"
+      ],
+      "identity_evidence": [
+        "Crossref作者单位为太原理工大学",
+        "作者主页列出",
+        "全文作者单位与姓名匹配"
+      ],
+      "fulltexts": [
+        {
+          "source": "https://openaccess.thecvf.com/content/CVPR2026F/html/Xia_Instruction-Focus-PromptSemantics-Driven_Structural_Prompts_for_Universal_SAM_Segmentation_CVPRF_2026_paper.html",
+          "version": "CVPR Findings正式录用版",
+          "author_role": "通讯作者/Lead Contact"
+        }
+      ],
+      "venue": "CVPR Findings",
+      "homepage_year": 2026,
+      "tag": "IFP",
+      "author_role": "通讯作者/Lead Contact",
+      "id": "LX07",
+      "access": "FULL",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": true,
+      "evidence_reference": "evidence-map.md"
+    },
+    {
+      "title": "Preoperative Predictive Modeling of Recurrent Graft Failure: Development and Validation of a 12-Month Prognostic Tool in Kidney Transplant Recipients",
+      "year": 2026,
+      "dois": [
+        "https://doi.org/10.1016/j.transproceed.2026.05.027"
+      ],
+      "sources": [
+        "https://openalex.org/W7164189156",
+        "https://api.crossref.org/works/10.1016/j.transproceed.2026.05.027"
+      ],
+      "authors": [
+        "Tongtong Shen",
+        "Xinyao Wang",
+        "Xueyu Liu",
+        "Wen Zheng"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "Crossref同名作者与已知合作者重合；归属待全文复核"
+      ],
+      "fulltexts": [],
+      "venue": "Transplantation Proceedings",
+      "oa_locations": [],
+      "id": "LX08",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1016/j.transproceed.2026.05.027",
+          "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0041134526002733",
+          "http_status": 200,
+          "content_type": "text/html;charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "PromptPilot: Game-Theoretic Multi-Agent Prompt Optimization for Segment Anything",
+      "year": 2026,
+      "dois": [],
+      "sources": [
+        "https://xueyuliu.github.io/#publications",
+        "https://proceedings.mlr.press/v306/shi26p.html"
+      ],
+      "authors": [],
+      "identity_evidence": [
+        "作者主页列出",
+        "全文作者单位与姓名匹配"
+      ],
+      "fulltexts": [
+        {
+          "source": "https://proceedings.mlr.press/v306/shi26p.html",
+          "version": "ICML正式录用版",
+          "author_role": "通讯作者/Lead Contact"
+        }
+      ],
+      "venue": "ICML",
+      "homepage_year": 2026,
+      "tag": "PPILOT",
+      "author_role": "通讯作者/Lead Contact",
+      "id": "LX09",
+      "access": "FULL",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": true,
+      "evidence_reference": "evidence-map.md"
+    },
+    {
+      "title": "Revealing structural signatures associated with stress overshoot in two-dimensional Lennard–Jones systems based on interpretable deep learning",
+      "year": 2026,
+      "dois": [
+        "https://doi.org/10.1088/1674-1056/ae843a"
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1088/1674-1056/ae843a"
+      ],
+      "authors": [
+        "Tongtong 童童 Shen 申",
+        "Xinyao 新尧 Wang 王",
+        "Zhuohang 卓杭 Li 李",
+        "Xueyu 雪宇 Liu 刘",
+        "Wen 文 Zheng 郑"
+      ],
+      "identity_evidence": [
+        "Crossref作者单位为太原理工大学"
+      ],
+      "fulltexts": [],
+      "venue": "Chinese Physics B",
+      "id": "LX10",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1088/1674-1056/ae843a",
+          "final_url": "https://iopscience.iop.org/article/10.1088/1674-1056/ae843a",
+          "http_status": 200,
+          "content_type": "text/html;charset=ISO-8859-1"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "SAM-APG: Prompt-guided self-training framework based on SAM for nuclei segmentation with limited annotations",
+      "year": 2026,
+      "dois": [
+        "https://doi.org/10.1016/j.eswa.2026.131758"
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1016/j.eswa.2026.131758"
+      ],
+      "authors": [
+        "Xiaoxu Yao",
+        "Yexin Lai",
+        "Xueyu Liu",
+        "Chenyuan Wang",
+        "Mengyao Wang",
+        "Yongfei Wu",
+        "Wen Zheng"
+      ],
+      "identity_evidence": [
+        "Crossref同名作者与已知合作者重合；归属待全文复核"
+      ],
+      "fulltexts": [],
+      "venue": "Expert Systems with Applications",
+      "id": "LX11",
+      "access": "METADATA_ONLY",
+      "identity_status": "候选：合作网络支持，未获单位直接确认",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1016/j.eswa.2026.131758",
+          "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0957417426006718",
+          "http_status": 200,
+          "content_type": "text/html;charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "SemHyperSurv: A Hierarchical Semantics-guided Hypergraph Framework for Whole Slide Images based Survival Prediction",
+      "year": 2026,
+      "dois": [
+        "https://doi.org/10.1145/3767308.3835264"
+      ],
+      "sources": [
+        "https://openalex.org/W7225388242",
+        "https://api.crossref.org/works/10.1145/3767308.3835264",
+        "https://xueyuliu.github.io/#publications"
+      ],
+      "authors": [
+        "Jianan Zhang",
+        "Shan Zhang",
+        "Xin Zhan",
+        "Haonan Chen",
+        "Xueyu Liu",
+        "Junxin Chen",
+        "Mingqiang Wei",
+        "Yongfei Wu"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "Crossref作者单位为太原理工大学",
+        "作者主页列出"
+      ],
+      "fulltexts": [],
+      "venue": "ACM MM",
+      "oa_locations": [
+        "https://doi.org/10.1145/3767308.3835264"
+      ],
+      "homepage_year": 2026,
+      "id": "LX12",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1145/3767308.3835264",
+          "final_url": "https://dl.acm.org/doi/10.1145/3767308.3835264",
+          "http_status": 403,
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Stain-Aware SAM Adaptation via Prompt-Guided Pseudo-Labeling for Sclerotic Glomeruli Segmentation",
+      "year": 2026,
+      "dois": [
+        "https://doi.org/10.1109/icsp69961.2026.11540676"
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1109/icsp69961.2026.11540676"
+      ],
+      "authors": [
+        "Yangzhi Han",
+        "Xiaopeng Xia",
+        "Xueyu Liu",
+        "Luyao Wang"
+      ],
+      "identity_evidence": [
+        "Crossref作者单位为太原理工大学"
+      ],
+      "fulltexts": [],
+      "venue": "2026 11th International Conference on Intelligent Computing and Signal Processing (ICSP)",
+      "id": "LX13",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1109/icsp69961.2026.11540676",
+          "final_url": "https://ieeexplore.ieee.org/document/11540676/",
+          "http_status": 202,
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "TriS ‐Net: A Progressive Learning Framework for Medical Image Segmentation With Multigranularity Supervision",
+      "year": 2026,
+      "dois": [
+        "https://doi.org/10.1111/exsy.70315"
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1111/exsy.70315"
+      ],
+      "authors": [
+        "Yaling Zhang",
+        "Shan Zhang",
+        "Jianan Zhang",
+        "Xueyu Liu",
+        "Junxin Chen",
+        "Guanghui Yue",
+        "Yongfei Wu"
+      ],
+      "identity_evidence": [
+        "Crossref作者单位为太原理工大学"
+      ],
+      "fulltexts": [],
+      "venue": "Expert Systems",
+      "id": "LX14",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1111/exsy.70315",
+          "final_url": "https://onlinelibrary.wiley.com/doi/10.1111/exsy.70315",
+          "http_status": 403,
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "AI-Driven Quantitative Analysis of Pathological Images for Membranous Nephropathy Across Macro and Micro Modalities",
+      "year": 2025,
+      "dois": [
+        "https://doi.org/10.1109/jbhi.2025.3624618"
+      ],
+      "sources": [
+        "https://openalex.org/W4416582986",
+        "https://api.crossref.org/works/10.1109/jbhi.2025.3624618",
+        "https://xueyuliu.github.io/#publications"
+      ],
+      "authors": [
+        "Guangze Shi",
+        "Ying Wang",
+        "Yongfei Wu",
+        "Xueyu Liu",
+        "Jia Shen",
+        "Hao Meng",
+        "Yexin Lai",
+        "Weixia Han",
+        "Yan Hu",
+        "Mingqiang Wei"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "Crossref作者单位为太原理工大学",
+        "作者主页列出"
+      ],
+      "fulltexts": [],
+      "venue": "IEEE J-BHI",
+      "oa_locations": [],
+      "homepage_year": 2025,
+      "id": "LX15",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1109/jbhi.2025.3624618",
+          "final_url": "https://ieeexplore.ieee.org/document/11265858/",
+          "http_status": 202,
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "D4PM: A Dual-branch Driven Denoising Diffusion Probabilistic Model with Joint Posterior Diffusion Sampling for EEG Artifacts Removal",
+      "year": 2025,
+      "dois": [
+        "https://doi.org/10.48550/arxiv.2509.14302"
+      ],
+      "sources": [
+        "https://openalex.org/W4417081094",
+        "https://arxiv.org/abs/2509.14302v1"
+      ],
+      "authors": [
+        "Feixue Shao",
+        "Xueyu Liu",
+        "Yongfei Wu",
+        "Jianbo Lu",
+        "Guiying Yan",
+        "Weihua Yang"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "全文作者单位与姓名匹配"
+      ],
+      "fulltexts": [
+        {
+          "source": "https://arxiv.org/abs/2509.14302v1",
+          "version": "预印本，录用情况未核实",
+          "author_role": "合作作者"
+        }
+      ],
+      "venue": "arXiv (Cornell University)",
+      "oa_locations": [
+        "https://arxiv.org/pdf/2509.14302",
+        "https://doi.org/10.48550/arxiv.2509.14302"
+      ],
+      "tag": "D4PM",
+      "author_role": "合作作者",
+      "id": "LX16",
+      "access": "FULL",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": true,
+      "evidence_reference": "evidence-map.md"
+    },
+    {
+      "title": "Deep Reinforcement Learning Driven Weakly Supervised Lesion Segmentation in Lung CT Sequence Images",
+      "year": 2025,
+      "dois": [
+        "https://doi.org/10.1109/tim.2025.3571146"
+      ],
+      "sources": [
+        "https://openalex.org/W4410886931",
+        "https://api.crossref.org/works/10.1109/tim.2025.3571146"
+      ],
+      "authors": [
+        "Yexin Lai",
+        "Xueyu Liu",
+        "Xinyi Liang",
+        "Chenyang Rong",
+        "Yongfei Wu",
+        "Wen Zheng"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "Crossref作者单位为太原理工大学"
+      ],
+      "fulltexts": [],
+      "venue": "IEEE Transactions on Instrumentation and Measurement",
+      "oa_locations": [],
+      "id": "LX17",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1109/tim.2025.3571146",
+          "final_url": "https://ieeexplore.ieee.org/document/11007043/",
+          "http_status": 202,
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Fourier Transform-Based Shape Constrained Framework for Generalizable Medical Image Segmentation",
+      "year": 2025,
+      "dois": [
+        "https://doi.org/10.1007/978-981-95-5634-2_21"
+      ],
+      "sources": [
+        "https://xueyuliu.github.io/#publications",
+        "https://openalex.org/W7125147694"
+      ],
+      "authors": [
+        "Jia Shen",
+        "Jun Zhang",
+        "Xueyu Liu",
+        "Yunfei Zhang",
+        "Guangze Shi",
+        "Feixue Shao",
+        "Hangbei Cheng",
+        "Yongfei Wu"
+      ],
+      "identity_evidence": [
+        "作者主页列出"
+      ],
+      "fulltexts": [],
+      "venue": "PRCV",
+      "homepage_year": 2025,
+      "id": "LX18",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1007/978-981-95-5634-2_21",
+          "final_url": "https://link.springer.com/chapter/10.1007/978-981-95-5634-2_21",
+          "http_status": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "GLMKD: Joint global and local mutual knowledge distillation for weakly supervised lesion segmentation in histopathology images",
+      "year": 2025,
+      "dois": [
+        "https://doi.org/10.1016/j.eswa.2025.127425"
+      ],
+      "sources": [
+        "https://openalex.org/W4409190174"
+      ],
+      "authors": [
+        "Hangbei Cheng",
+        "Xueyu Liu",
+        "Jun Zhang",
+        "Xiaorong Dong",
+        "Xuetao Ma",
+        "Yansong Zhang",
+        "Hao Meng",
+        "Xing Chen",
+        "Guanghui Yue",
+        "Yidi Li",
+        "Yongfei Wu"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位"
+      ],
+      "fulltexts": [],
+      "venue": "Expert Systems with Applications",
+      "oa_locations": [],
+      "id": "LX19",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1016/j.eswa.2025.127425",
+          "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0957417425010474",
+          "http_status": 200,
+          "content_type": "text/html;charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Intensity grading of kidney biopsy direct immunofluorescence IgG image via semantically enhanced feature network",
+      "year": 2025,
+      "dois": [
+        "https://doi.org/10.1016/j.bspc.2024.106966"
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1016/j.bspc.2024.106966"
+      ],
+      "authors": [
+        "Junfeng Wu",
+        "Ruili Wang",
+        "Xueyu Liu",
+        "Zhenhuan Xu",
+        "Yongfei Wu"
+      ],
+      "identity_evidence": [
+        "Crossref同名作者与已知合作者重合；归属待全文复核"
+      ],
+      "fulltexts": [],
+      "venue": "Biomedical Signal Processing and Control",
+      "id": "LX20",
+      "access": "METADATA_ONLY",
+      "identity_status": "候选：合作网络支持，未获单位直接确认",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1016/j.bspc.2024.106966",
+          "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S1746809424010243",
+          "http_status": 200,
+          "content_type": "text/html;charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Multi-instance curriculum learning for histopathology image classification with bias reduction",
+      "year": 2025,
+      "dois": [
+        "https://doi.org/10.1016/j.media.2025.103647"
+      ],
+      "sources": [
+        "https://openalex.org/W4410977639"
+      ],
+      "authors": [
+        "Zihao Mi",
+        "Jianan Zhang",
+        "Xueyu Liu",
+        "Guanghui Yue",
+        "Junhong Yue",
+        "Mingqiang Wei",
+        "Yidi Li",
+        "Yongfei Wu"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位"
+      ],
+      "fulltexts": [],
+      "venue": "Medical Image Analysis",
+      "oa_locations": [],
+      "id": "LX21",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1016/j.media.2025.103647",
+          "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S136184152500194X",
+          "http_status": 200,
+          "content_type": "text/html;charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Multi-task cyclical consistency learning based medical image segmentation",
+      "year": 2025,
+      "dois": [
+        "https://doi.org/10.1016/j.engappai.2025.111863"
+      ],
+      "sources": [
+        "https://openalex.org/W4413009866",
+        "https://xueyuliu.github.io/#publications"
+      ],
+      "authors": [
+        "Le Han",
+        "Jianan Zhang",
+        "Yan Hu",
+        "Xueyu Liu",
+        "Guanghui Yue",
+        "Mingqiang Wei",
+        "Yongfei Wu"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "作者主页列出"
+      ],
+      "fulltexts": [],
+      "venue": "EAAI",
+      "oa_locations": [],
+      "homepage_year": 2025,
+      "id": "LX22",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1016/j.engappai.2025.111863",
+          "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0952197625018652",
+          "http_status": 200,
+          "content_type": "text/html;charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Plug-and-Play PPO: An Adaptive Point Prompt Optimizer Making SAM Greater",
+      "year": 2025,
+      "dois": [
+        "https://doi.org/10.1109/cvpr52734.2025.00409"
+      ],
+      "sources": [
+        "https://openalex.org/W4413147345",
+        "https://api.crossref.org/works/10.1109/cvpr52734.2025.00409",
+        "https://xueyuliu.github.io/#publications",
+        "https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Plug-and-Play_PPO_An_Adaptive_Point_Prompt_Optimizer_Making_SAM_Greater_CVPR_2025_paper.html"
+      ],
+      "authors": [
+        "Xueyu Liu",
+        "Rui Wang",
+        "Yexin Lai",
+        "Guangze Shi",
+        "Feixue Shao",
+        "Hao Fang",
+        "Jianan Zhang",
+        "Jia Shen",
+        "Yongfei Wu",
+        "Wen Zheng"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "Crossref作者单位为太原理工大学",
+        "作者主页列出",
+        "全文作者单位与姓名匹配"
+      ],
+      "fulltexts": [
+        {
+          "source": "https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Plug-and-Play_PPO_An_Adaptive_Point_Prompt_Optimizer_Making_SAM_Greater_CVPR_2025_paper.html",
+          "version": "CVPR正式录用版",
+          "author_role": "共同第一作者"
+        }
+      ],
+      "venue": "CVPR",
+      "oa_locations": [],
+      "homepage_year": 2025,
+      "tag": "PPO",
+      "author_role": "共同第一作者",
+      "id": "LX23",
+      "access": "FULL",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": true,
+      "evidence_reference": "evidence-map.md"
+    },
+    {
+      "title": "Segment Any Tissue: One-shot reference guided training-free automatic point prompting for medical image segmentation",
+      "year": 2025,
+      "dois": [
+        "https://doi.org/10.1016/j.media.2025.103550"
+      ],
+      "sources": [
+        "https://openalex.org/W4408566143",
+        "https://xueyuliu.github.io/#publications"
+      ],
+      "authors": [
+        "Xueyu Liu",
+        "Guangze Shi",
+        "Rui Wang",
+        "Yexin Lai",
+        "Jianan Zhang",
+        "Weixia Han",
+        "Min Lei",
+        "Ming Li",
+        "Xiaoshuang Zhou",
+        "Yongfei Wu",
+        "Chen Wang",
+        "Zheng Wen"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "作者主页列出"
+      ],
+      "fulltexts": [],
+      "venue": "MedIA",
+      "oa_locations": [],
+      "homepage_year": 2025,
+      "id": "LX24",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1016/j.media.2025.103550",
+          "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S1361841525000970",
+          "http_status": 200,
+          "content_type": "text/html;charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Classification and quantification of glomerular spike-like projections via deep residual multiple instance learning with multi-scale annotation",
+      "year": 2024,
+      "dois": [
+        "https://doi.org/10.1007/s11042-024-18536-x"
+      ],
+      "sources": [
+        "https://openalex.org/W4391898039"
+      ],
+      "authors": [
+        "Yilin Chen",
+        "Xueyu Liu",
+        "Hao Fang",
+        "Wen Zheng",
+        "Xiaoshuang Zhou",
+        "Ming Li",
+        "Yongfei Wu",
+        "Chen Wang"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位"
+      ],
+      "fulltexts": [],
+      "venue": "Multimedia Tools and Applications",
+      "oa_locations": [],
+      "id": "LX25",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1007/s11042-024-18536-x",
+          "final_url": "https://link.springer.com/article/10.1007/s11042-024-18536-x",
+          "http_status": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Feature-Prompting GBMSeg: One-Shot Reference Guided Training-Free Prompt Engineering for Glomerular Basement Membrane Segmentation",
+      "year": 2024,
+      "dois": [
+        "https://doi.org/10.1007/978-3-031-72114-4_27"
+      ],
+      "sources": [
+        "https://openalex.org/W4403066928",
+        "https://xueyuliu.github.io/#publications",
+        "https://arxiv.org/abs/2406.16271v1"
+      ],
+      "authors": [
+        "Xueyu Liu",
+        "Guangze Shi",
+        "Rui Wang",
+        "Yexin Lai",
+        "Jianan Zhang",
+        "Sun Lele",
+        "Quan Yue Yang",
+        "Yongfei Wu",
+        "Ming Li",
+        "Weixia Han",
+        "Zheng Wen"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "作者主页列出",
+        "全文作者单位与姓名匹配"
+      ],
+      "fulltexts": [
+        {
+          "source": "https://arxiv.org/abs/2406.16271v1",
+          "version": "MICCAI录用稿预印本",
+          "author_role": "第一作者"
+        }
+      ],
+      "venue": "MICCAI",
+      "oa_locations": [
+        "https://arxiv.org/pdf/2406.16271",
+        "https://doi.org/10.48550/arxiv.2406.16271"
+      ],
+      "homepage_year": 2024,
+      "tag": "GBM",
+      "author_role": "第一作者",
+      "id": "LX26",
+      "access": "FULL",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": true,
+      "evidence_reference": "evidence-map.md"
+    },
+    {
+      "title": "Level set guided region prototype rectification network for retinal vessel segmentation",
+      "year": 2024,
+      "dois": [
+        "https://doi.org/10.1016/j.bspc.2023.105428"
+      ],
+      "sources": [
+        "https://api.crossref.org/works/10.1016/j.bspc.2023.105428"
+      ],
+      "authors": [
+        "Yifei Liu",
+        "Qingtian Wu",
+        "Xueyu Liu",
+        "Junyu Lu",
+        "Zhenhuan Xu",
+        "Yongfei Wu",
+        "Shu Feng"
+      ],
+      "identity_evidence": [
+        "Crossref同名作者与已知合作者重合；归属待全文复核"
+      ],
+      "fulltexts": [],
+      "venue": "Biomedical Signal Processing and Control",
+      "id": "LX27",
+      "access": "METADATA_ONLY",
+      "identity_status": "候选：合作网络支持，未获单位直接确认",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1016/j.bspc.2023.105428",
+          "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S1746809423008613",
+          "http_status": 200,
+          "content_type": "text/html;charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "MSMTSeg: Multi-Stained Multi-Tissue Segmentation of Kidney Histology Images via Generative Self-Supervised Meta-Learning Framework",
+      "year": 2024,
+      "dois": [
+        "https://doi.org/10.1109/jbhi.2024.3381047"
+      ],
+      "sources": [
+        "https://openalex.org/W4393145175",
+        "https://api.crossref.org/works/10.1109/jbhi.2024.3381047",
+        "https://xueyuliu.github.io/#publications"
+      ],
+      "authors": [
+        "Xueyu Liu",
+        "Rui Wang",
+        "Yexin Lai",
+        "Yongfei Wu",
+        "Hangbei Cheng",
+        "Yuanyue Lu",
+        "Jianan Zhang",
+        "Ning Hao",
+        "Chenglong Ban",
+        "Yanru Wang",
+        "Shuqin Tang",
+        "Yuxuan Yang",
+        "Ming Li",
+        "Xiaoshuang Zhou",
+        "Wen Zheng"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "Crossref作者单位为太原理工大学",
+        "作者主页列出"
+      ],
+      "fulltexts": [],
+      "venue": "IEEE J-BHI",
+      "oa_locations": [],
+      "homepage_year": 2024,
+      "id": "LX28",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1109/jbhi.2024.3381047",
+          "final_url": "https://ieeexplore.ieee.org/document/10478171/",
+          "http_status": 202,
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Multi-instance Curriculum Learning for Histopathology Image Classifications with Hard Negative Mining and Positive Augmentation",
+      "year": 2024,
+      "dois": [
+        "https://doi.org/10.1109/bibm62325.2024.10822566"
+      ],
+      "sources": [
+        "https://openalex.org/W4406238284",
+        "https://api.crossref.org/works/10.1109/bibm62325.2024.10822566"
+      ],
+      "authors": [
+        "Zihao Mi",
+        "Xueyu Liu",
+        "Jianan Zhang",
+        "Guangze Shi",
+        "Yidi Li",
+        "Yongfei Wu"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "Crossref作者单位为太原理工大学"
+      ],
+      "fulltexts": [],
+      "venue": "2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)",
+      "oa_locations": [],
+      "id": "LX29",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1109/bibm62325.2024.10822566",
+          "final_url": "https://ieeexplore.ieee.org/document/10822566/",
+          "http_status": 202,
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Multi-scale multi-instance contrastive learning for whole slide image classification",
+      "year": 2024,
+      "dois": [
+        "https://doi.org/10.1016/j.engappai.2024.109300"
+      ],
+      "sources": [
+        "https://openalex.org/W4402481765"
+      ],
+      "authors": [
+        "Jianan Zhang",
+        "Fang Hao",
+        "Xueyu Liu",
+        "Shupei Yao",
+        "Yongfei Wu",
+        "Ming Li",
+        "Wen Zheng"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位"
+      ],
+      "fulltexts": [],
+      "venue": "Engineering Applications of Artificial Intelligence",
+      "oa_locations": [],
+      "id": "LX30",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1016/j.engappai.2024.109300",
+          "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0952197624014581",
+          "http_status": 200,
+          "content_type": "text/html;charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Segmentation of skin lesion using superpixel guided generative adversarial network with dual-stream patch-based discriminators",
+      "year": 2024,
+      "dois": [
+        "https://doi.org/10.1016/j.bspc.2024.106304"
+      ],
+      "sources": [
+        "https://openalex.org/W4394789309",
+        "https://api.crossref.org/works/10.1016/j.bspc.2024.106304"
+      ],
+      "authors": [
+        "Jiahao Zhang",
+        "Miao Che",
+        "Zongfei Wu",
+        "Yifei Liu",
+        "Xueyu Liu",
+        "Hao Zhang",
+        "Yongfei Wu"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "Crossref同名作者与已知合作者重合；归属待全文复核"
+      ],
+      "fulltexts": [],
+      "venue": "Biomedical Signal Processing and Control",
+      "oa_locations": [],
+      "id": "LX31",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1016/j.bspc.2024.106304",
+          "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S1746809424003628",
+          "http_status": 200,
+          "content_type": "text/html;charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Severity-stratification of interstitial lung disease by deep learning enabled assessment and quantification of lesion indicators from HRCT images",
+      "year": 2024,
+      "dois": [
+        "https://doi.org/10.3233/xst-230218"
+      ],
+      "sources": [
+        "https://openalex.org/W4391345990",
+        "https://api.crossref.org/works/10.3233/xst-230218"
+      ],
+      "authors": [
+        "Yexin Lai",
+        "Xueyu Liu",
+        "Fan Fan Hou",
+        "Zhiyong Han",
+        "E Linning",
+        "Ningling Su",
+        "Dianrong Du",
+        "Zhichong Wang",
+        "Wen Zheng",
+        "Yongfei Wu"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "Crossref作者单位为太原理工大学"
+      ],
+      "fulltexts": [],
+      "venue": "Journal of X-Ray Science and Technology: Clinical Applications of Diagnosis and Therapeutics",
+      "oa_locations": [],
+      "id": "LX32",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.3233/xst-230218",
+          "final_url": "https://sage.cnpereading.com/doi/10.3233/XST-230218",
+          "http_status": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Swin Transformer based detection and segmentation networks for measurement and quantification analysis of arteriolar vessels from renal whole slide images",
+      "year": 2024,
+      "dois": [
+        "https://doi.org/10.1016/j.bspc.2024.106619"
+      ],
+      "sources": [
+        "https://openalex.org/W4400386524"
+      ],
+      "authors": [
+        "Chenyang Zhou",
+        "Xueyu Liu",
+        "Shaohua Liang",
+        "Yexin Lai",
+        "Miao Che",
+        "Ming Li",
+        "Zhenhuan Xu",
+        "Shu Feng",
+        "Yongfei Wu"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位"
+      ],
+      "fulltexts": [],
+      "venue": "Biomedical Signal Processing and Control",
+      "oa_locations": [],
+      "id": "LX33",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1016/j.bspc.2024.106619",
+          "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S1746809424006773",
+          "http_status": 200,
+          "content_type": "text/html;charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Transformer based multiple superpixel-instance learning for weakly supervised segmenting lesions of interstitial lung disease",
+      "year": 2024,
+      "dois": [
+        "https://doi.org/10.1016/j.eswa.2024.124270"
+      ],
+      "sources": [
+        "https://openalex.org/W4399201601",
+        "https://api.crossref.org/works/10.1016/j.eswa.2024.124270"
+      ],
+      "authors": [
+        "Yexin Lai",
+        "Xueyu Liu",
+        "E Linning",
+        "Yujing Cheng",
+        "Shuyan Liu",
+        "Yongfei Wu",
+        "Wen Zheng"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "Crossref同名作者与已知合作者重合；归属待全文复核"
+      ],
+      "fulltexts": [],
+      "venue": "Expert Systems with Applications",
+      "oa_locations": [],
+      "id": "LX34",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1016/j.eswa.2024.124270",
+          "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0957417424011369",
+          "http_status": 200,
+          "content_type": "text/html;charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Accurate Kidney Pathological Image Classification Method Based on Deep Learning and Multi-Modal Fusion Method with Application to Membranous Nephropathy",
+      "year": 2023,
+      "dois": [
+        "https://doi.org/10.3390/life13020399"
+      ],
+      "sources": [
+        "https://openalex.org/W4318820292",
+        "https://api.crossref.org/works/10.3390/life13020399",
+        "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9960995/fullTextXML"
+      ],
+      "authors": [
+        "Hao Fang",
+        "Xueyu Liu",
+        "Ming Li",
+        "Weixia Han"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "Crossref作者单位为太原理工大学",
+        "全文作者单位与姓名匹配"
+      ],
+      "fulltexts": [
+        {
+          "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC9960995/fullTextXML",
+          "version": "正式出版全文XML",
+          "author_role": "合作作者；CRediT列Software，原稿写作为Fang Hao"
+        }
+      ],
+      "venue": "Life",
+      "oa_locations": [
+        "https://www.mdpi.com/2075-1729/13/2/399/pdf?version=1676451040",
+        "https://pmc.ncbi.nlm.nih.gov/articles/PMC9960995/pdf/life-13-00399.pdf",
+        "https://doaj.org/article/00ffba1810854c6fb902f618af397f6b"
+      ],
+      "tag": "LIFE",
+      "author_role": "合作作者；CRediT列Software，原稿写作为Fang Hao",
+      "id": "LX35",
+      "access": "FULL",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": true,
+      "evidence_reference": "evidence-map.md"
+    },
+    {
+      "title": "Diagnosis of diabetic kidney disease in whole slide images via AI-driven quantification of pathological indicators",
+      "year": 2023,
+      "dois": [
+        "https://doi.org/10.1016/j.compbiomed.2023.107470"
+      ],
+      "sources": [
+        "https://openalex.org/W4386575279"
+      ],
+      "authors": [
+        "Xueyu Liu",
+        "Yongfei Wu",
+        "Yilin Chen",
+        "Dongna Hui",
+        "Jianan Zhang",
+        "Hao Fang",
+        "Yuanyue Lu",
+        "Hangbei Cheng",
+        "Yue Zeng",
+        "Weixia Han",
+        "Chen Wang",
+        "Ming Li",
+        "Xiaoshuang Zhou",
+        "Wen Zheng"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位"
+      ],
+      "fulltexts": [],
+      "venue": "Computers in Biology and Medicine",
+      "oa_locations": [],
+      "id": "LX36",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1016/j.compbiomed.2023.107470",
+          "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0010482523009356",
+          "http_status": 200,
+          "content_type": "text/html;charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Double similarities weighted multi-instance learning kernel and its application",
+      "year": 2023,
+      "dois": [
+        "https://doi.org/10.1016/j.eswa.2023.121900"
+      ],
+      "sources": [
+        "https://openalex.org/W4387409035",
+        "https://api.crossref.org/works/10.1016/j.eswa.2023.121900"
+      ],
+      "authors": [
+        "Jianan Zhang",
+        "Yongfei Wu",
+        "Hao Fang",
+        "Xueyu Liu",
+        "Ming Li",
+        "Daoxiang Zhou",
+        "Wen Zheng"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "Crossref同名作者与已知合作者重合；归属待全文复核"
+      ],
+      "fulltexts": [],
+      "venue": "Expert Systems with Applications",
+      "oa_locations": [],
+      "id": "LX37",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1016/j.eswa.2023.121900",
+          "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0957417423024028",
+          "http_status": 200,
+          "content_type": "text/html;charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Ada-CCFNet: Classification of multimodal direct immunofluorescence images for membranous nephropathy via adaptive weighted confidence calibration fusion network",
+      "year": 2022,
+      "dois": [
+        "https://doi.org/10.1016/j.engappai.2022.105637"
+      ],
+      "sources": [
+        "https://openalex.org/W4310072744"
+      ],
+      "authors": [
+        "Ruili Wang",
+        "Xueyu Liu",
+        "Hao Fang",
+        "Xing Chen",
+        "Xinyu Li",
+        "Chen Wang",
+        "Dan Niu",
+        "Ming Li",
+        "Yongfei Wu"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位"
+      ],
+      "fulltexts": [],
+      "venue": "Engineering Applications of Artificial Intelligence",
+      "oa_locations": [],
+      "id": "LX38",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1016/j.engappai.2022.105637",
+          "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0952197622006273",
+          "http_status": 200,
+          "content_type": "text/html;charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "IDA-MIL: Classification of Glomerular with Spike-like Projections via Multiple Instance Learning with Instance-level Data Augmentation",
+      "year": 2022,
+      "dois": [
+        "https://doi.org/10.1016/j.cmpb.2022.107106"
+      ],
+      "sources": [
+        "https://openalex.org/W4294192801"
+      ],
+      "authors": [
+        "Xi Wu",
+        "Yilin Chen",
+        "Xinyu Li",
+        "Xueyu Liu",
+        "Yifei Liu",
+        "Yongfei Wu",
+        "Ming Li",
+        "Xiaoshuang Zhou",
+        "Chen Wang"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位"
+      ],
+      "fulltexts": [],
+      "venue": "Computer Methods and Programs in Biomedicine",
+      "oa_locations": [],
+      "id": "LX39",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1016/j.cmpb.2022.107106",
+          "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0169260722004874",
+          "http_status": 200,
+          "content_type": "text/html;charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Interstitial fibrosis and tubular atrophy measurement via hierarchical extractions of kidney and atrophy regions with deep learning method",
+      "year": 2022,
+      "dois": [
+        "https://doi.org/10.1016/j.measurement.2022.111885"
+      ],
+      "sources": [
+        "https://openalex.org/W4296198999"
+      ],
+      "authors": [
+        "Yexin Lai",
+        "Xueyu Liu",
+        "Yongfei Wu",
+        "Daoxiang Zhou",
+        "Chen Wang",
+        "Dan Niu",
+        "Weixia Han",
+        "Xiaoshuang Zhou",
+        "Jiayan Chen",
+        "Wen Zheng"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位"
+      ],
+      "fulltexts": [],
+      "venue": "Measurement",
+      "oa_locations": [],
+      "id": "LX40",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1016/j.measurement.2022.111885",
+          "final_url": "https://linkinghub.elsevier.com/retrieve/pii/S0263224122010818",
+          "http_status": 200,
+          "content_type": "text/html;charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Prediction of breast cancer metastasis by deep learning pathology",
+      "year": 2022,
+      "dois": [
+        "https://doi.org/10.1049/ipr2.12652"
+      ],
+      "sources": [
+        "https://openalex.org/W4304620290",
+        "https://api.crossref.org/works/10.1049/ipr2.12652"
+      ],
+      "authors": [
+        "Yuanyue Lu",
+        "Jun Zhang",
+        "Xueyu Liu",
+        "Zhihong Zhang",
+        "Wangxing Li",
+        "Xiaoshuang Zhou",
+        "Rongshan Li"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "Crossref作者单位为太原理工大学"
+      ],
+      "fulltexts": [],
+      "venue": "IET Image Processing",
+      "oa_locations": [
+        "https://doi.org/10.1049/ipr2.12652",
+        "https://doaj.org/article/48455c73ad6a4caca838117e70a81023"
+      ],
+      "id": "LX41",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1049/ipr2.12652",
+          "final_url": "https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/ipr2.12652",
+          "http_status": 403,
+          "content_type": "text/html; charset=UTF-8"
+        },
+        {
+          "url": "https://doaj.org/article/48455c73ad6a4caca838117e70a81023",
+          "final_url": "https://doaj.org/article/48455c73ad6a4caca838117e70a81023",
+          "http_status": 403,
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Unsupervised domain adaptation using modified cycle generative adversarial network for aerial image classification",
+      "year": 2022,
+      "dois": [
+        "https://doi.org/10.1117/1.jrs.16.044520"
+      ],
+      "sources": [
+        "https://openalex.org/W4311236125",
+        "https://api.crossref.org/works/10.1117/1.jrs.16.044520"
+      ],
+      "authors": [
+        "Jiehuang Ren",
+        "Liye Jia",
+        "Junhong Yue",
+        "Xueyu Liu",
+        "Lixin Sun",
+        "Yongfei Wu",
+        "Daoxiang Zhou"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "Crossref作者单位为太原理工大学"
+      ],
+      "fulltexts": [],
+      "venue": "Journal of Applied Remote Sensing",
+      "oa_locations": [],
+      "id": "LX42",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1117/1.jrs.16.044520",
+          "final_url": "https://www.spiedigitallibrary.org/journals/journal-of-applied-remote-sensing/volume-16/issue-04/044520/Unsupervised-domain-adaptation-using-modified-cycle-generative-adversarial-network-for/10.1117/1.JRS.16.044520.full",
+          "http_status": 200,
+          "content_type": "text/html"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "An efficient glomerular object locator for renal whole slide images using proposal-free network and dynamic scale evaluation method",
+      "year": 2021,
+      "dois": [
+        "https://doi.org/10.3233/aic-210073"
+      ],
+      "sources": [
+        "https://openalex.org/W3198853205",
+        "https://api.crossref.org/works/10.3233/aic-210073"
+      ],
+      "authors": [
+        "Xueyu Liu",
+        "Ming Li",
+        "Yongfei Wu",
+        "Yilin Chen",
+        "Hao Fang",
+        "Daoxiang Zhou",
+        "Chen Wang",
+        "Chuanfeng Ma",
+        "Guangze Shi",
+        "Xiaoshuang Zhou"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "Crossref作者单位为太原理工大学"
+      ],
+      "fulltexts": [],
+      "venue": "AI Communications",
+      "oa_locations": [],
+      "id": "LX43",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.3233/aic-210073",
+          "final_url": "https://sage.cnpereading.com/doi/10.3233/AIC-210073",
+          "http_status": 200,
+          "content_type": "text/html; charset=utf-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Low-dose IL-2 therapy limits the reduction in absolute numbers of circulating regulatory T cells in rheumatoid arthritis",
+      "year": 2021,
+      "dois": [
+        "https://doi.org/10.1177/1759720x211011370",
+        "https://doi.org/10.21203/rs.3.rs-93717/v1"
+      ],
+      "sources": [
+        "https://openalex.org/W3159215868",
+        "https://openalex.org/W4256636212",
+        "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8107675/fullTextXML"
+      ],
+      "authors": [
+        "Sheng‐Xiao Zhang",
+        "Jia Wang",
+        "Caihong Wang",
+        "Rui-Huan Jia",
+        "Ming Yan",
+        "Fang-Yuan Hu",
+        "Guangying Liu",
+        "Xueyu Liu",
+        "Jing Luo",
+        "Chong Gao",
+        "Xiaofeng Li"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "全文作者单位与姓名匹配"
+      ],
+      "fulltexts": [
+        {
+          "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8107675/fullTextXML",
+          "version": "正式出版全文XML",
+          "author_role": "合作作者；Xue-Yu Liu，论文单位为太原理工大学"
+        }
+      ],
+      "venue": "Research Square",
+      "oa_locations": [
+        "https://www.researchsquare.com/article/rs-93717/v1.pdf?c=1631873251000"
+      ],
+      "tag": "RA",
+      "author_role": "合作作者；Xue-Yu Liu，论文单位为太原理工大学",
+      "id": "LX44",
+      "access": "FULL",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "note": "2020 Research Square与2021期刊版按同题合并；不计为独立风格样本",
+      "style_eligible": true,
+      "evidence_reference": "evidence-map.md"
+    },
+    {
+      "title": "An accurate classification method based on multi-focus videos and deep learning for urinary red blood cell",
+      "year": 2020,
+      "dois": [
+        "https://doi.org/10.1145/3433996.3434485"
+      ],
+      "sources": [
+        "https://openalex.org/W3111853032",
+        "https://api.crossref.org/works/10.1145/3433996.3434485"
+      ],
+      "authors": [
+        "Xinyu Li",
+        "Ming Li",
+        "Yongfei Wu",
+        "Xiaoshuang Zhou",
+        "Hao Fang",
+        "Xueyu Liu"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "Crossref作者单位为太原理工大学"
+      ],
+      "fulltexts": [],
+      "venue": "Proceedings of the 2020 Conference on Artificial Intelligence and Healthcare",
+      "oa_locations": [],
+      "id": "LX45",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1145/3433996.3434485",
+          "final_url": "https://dl.acm.org/doi/10.1145/3433996.3434485",
+          "http_status": 403,
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "Classification of Glomeruli with Membranous Nephropathy on Renal Digital Pathological Images with Deep Learning",
+      "year": 2020,
+      "dois": [
+        "https://doi.org/10.1145/3433996.3434486"
+      ],
+      "sources": [
+        "https://openalex.org/W3112687452",
+        "https://api.crossref.org/works/10.1145/3433996.3434486"
+      ],
+      "authors": [
+        "Hao Fang",
+        "Ming Li",
+        "Xueyu Liu",
+        "Xinyu Li",
+        "Junhong Yue",
+        "Weixia Han"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "Crossref作者单位为太原理工大学"
+      ],
+      "fulltexts": [],
+      "venue": "Proceedings of the 2020 Conference on Artificial Intelligence and Healthcare",
+      "oa_locations": [],
+      "id": "LX46",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1145/3433996.3434486",
+          "final_url": "https://dl.acm.org/doi/10.1145/3433996.3434486",
+          "http_status": 403,
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "GLO-YOLO: A Dynamic Glomerular Detecting and Slicing Model in Whole Slide Images",
+      "year": 2020,
+      "dois": [
+        "https://doi.org/10.1145/3433996.3434038"
+      ],
+      "sources": [
+        "https://openalex.org/W3113315077",
+        "https://api.crossref.org/works/10.1145/3433996.3434038"
+      ],
+      "authors": [
+        "Xueyu Liu",
+        "Ming Li",
+        "Hao Fang",
+        "Guoye Zhang",
+        "Chen Wang",
+        "Xiaoshuang Zhou"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "Crossref作者单位为太原理工大学"
+      ],
+      "fulltexts": [],
+      "venue": "Proceedings of the 2020 Conference on Artificial Intelligence and Healthcare",
+      "oa_locations": [],
+      "id": "LX47",
+      "access": "METADATA_ONLY",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": false,
+      "access_checks": [
+        {
+          "url": "https://doi.org/10.1145/3433996.3434038",
+          "final_url": "https://dl.acm.org/doi/10.1145/3433996.3434038",
+          "http_status": 403,
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ],
+      "access_note": "本次未取得可用于分析章节、表达及图表的全文；落地页可访问不等于全文可获取。"
+    },
+    {
+      "title": "MSA-MIL: A deep residual multiple instance learning model based on multi-scale annotation for classification and visualization of glomerular spikes",
+      "year": 2020,
+      "dois": [
+        "https://doi.org/10.48550/arxiv.2007.00858"
+      ],
+      "sources": [
+        "https://openalex.org/W3039269001",
+        "https://arxiv.org/abs/2007.00858v2"
+      ],
+      "authors": [
+        "Chen, Yilin",
+        "Ming Li",
+        "Yongfei Wu",
+        "Xueyu Liu",
+        "Hao Fang",
+        "Daoxiang Zhou",
+        "Xiaoshuang Zhou",
+        "Chen Wang"
+      ],
+      "identity_evidence": [
+        "OpenAlex作者条目含太原理工大学单位",
+        "全文作者单位与姓名匹配"
+      ],
+      "fulltexts": [
+        {
+          "source": "https://arxiv.org/abs/2007.00858v2",
+          "version": "预印本",
+          "author_role": "合作作者"
+        }
+      ],
+      "venue": "arXiv (Cornell University)",
+      "oa_locations": [
+        "https://arxiv.org/pdf/2007.00858",
+        "https://doi.org/10.48550/arxiv.2007.00858"
+      ],
+      "tag": "MSA",
+      "author_role": "合作作者",
+      "id": "LX48",
+      "access": "FULL",
+      "identity_status": "已获主页、全文或作者单位索引支持",
+      "style_eligible": true,
+      "evidence_reference": "evidence-map.md"
+    }
+  ],
+  "excluded_openalex": [
+    {
+      "title": "Valorization of industrial wastes in polypropylene fiber-reinforced foamed lightweight soil: performance optimization and microstructural mechanisms",
+      "doi": "https://doi.org/10.1016/j.rineng.2026.112475",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "The Pharmacokinetics, Bioavailability, and Excretion Studies of α-Cyperone in Rats by UHPLC-QQQ-MS/MS",
+      "doi": "https://doi.org/10.3390/molecules30193899",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Research and Innovation on the School-Enterprise Cooperation Talent Training Model for Business Administration Majors in Colleges and Universities",
+      "doi": "https://doi.org/10.18063/lne.v3i5.1072",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Innovative grouting solutions incorporating mineral additives to improve the durability of calcareous sand foundations in aggressive marine conditions",
+      "doi": "https://doi.org/10.1080/19648189.2025.2511033",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Time‐Course Transcriptome Analysis Unveils the CoFKF1‐CoMYB4‐CoFT1 Regulatory Module in Flowering Control of Camellia oleifera Abel.",
+      "doi": "https://doi.org/10.1111/pce.15574",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Research on Training Problems and Countermeasures for College Counselors",
+      "doi": "https://doi.org/10.2991/978-2-38476-384-9_46",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Author response: The theory of massively repeated evolution and full identifications of cancer-driving nucleotides (CDNs)",
+      "doi": "https://doi.org/10.7554/elife.99340.3.sa3",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Seasonal instability of phytoplankton community in extreme arid lake basin during interval period of large-scale ecological water transport",
+      "doi": "https://doi.org/10.1016/j.scitotenv.2024.178119",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Author response: On the discovered Cancer Driving Nucleotides (CDNs)–Distributions across genes, cancer types and patients",
+      "doi": "https://doi.org/10.7554/elife.99341.2.sa0",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "The theory of massively repeated evolution and full identifications of Cancer Driving Nucleotides (CDNs)",
+      "doi": "https://doi.org/10.7554/elife.99340.2",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Author response: On the discovered Cancer Driving Nucleotides (CDNs) –Distributions across genes, cancer types and patients",
+      "doi": "https://doi.org/10.7554/elife.99341.1.sa0",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "On the discovered Cancer Driving Nucleotides (CDNs) –Distributions across genes, cancer types and patients",
+      "doi": "https://doi.org/10.7554/elife.99341.1",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "The relationship between intracranial atherosclerosis and white matter hyperintensity in ischemic stroke patients: a retrospective cross-sectional study using high-resolution magnetic resonance vessel wall imaging",
+      "doi": "https://doi.org/10.21037/qims-23-64",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "GeS2 Nanosheets as Saturable Absorbers for High Signal-to-Noise Ratio in an L-Band Ultrafast Pulsed Laser",
+      "doi": "https://doi.org/10.1021/acsanm.4c00574",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Size effect enabling additive-free MXene ink with ultrahigh conductivity for screen printing of wireless electronics",
+      "doi": "https://doi.org/10.1007/s12274-023-5762-3",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Minocycline induces tolerance to dendritic cell production probably by targeting the SOCS1/ TLR4/NF-κB signaling pathway",
+      "doi": "https://doi.org/10.1016/j.trim.2023.101856",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Flexible and Small-size Graphene Ultrawideband Antenna with Wi-MAX/WLAN Dual-band Suppression Characteristics",
+      "doi": "https://doi.org/10.1109/iws58240.2023.10222751",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Microstrip Antenna Arrays Based on Two-dimensional Titanium Carbide (MXene) Films",
+      "doi": "https://doi.org/10.1109/icmmt58241.2023.10276844",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Anti-High-Power Microwave RFID Tag Based on Highly Thermal Conductive Graphene Films",
+      "doi": "https://doi.org/10.3390/ma16093370",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Geochemical evidence for annual variability of fluoride levels in deep groundwater on land subsidence plain in Cangzhou, Hebei Province, China",
+      "doi": "https://doi.org/10.1016/j.chemer.2023.125985",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Quasi-2D Mn3Si2Te6 Nanosheet for Ultrafast Photonics",
+      "doi": "https://doi.org/10.3390/nano13030602",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "In Vivo Near-Infrared Noninvasive Glucose Measurement and Detection in Humans",
+      "doi": "https://doi.org/10.1177/00037028221092474",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Flexible noncontact electrodes for comfortable monitoring of physiological signals",
+      "doi": "https://doi.org/10.1002/acs.2993",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Measuring temperature-induced effective attenuation coefficient spectra of biological tissue based on diffuse reflection spectroscopy",
+      "doi": "https://doi.org/10.1117/12.2325999",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Flexible Non-contact Electrodes for Bioelectrical Signal Monitoring",
+      "doi": "https://doi.org/10.1109/embc.2018.8513306",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Effective Biopotential Signal Acquisition: Comparison of Different Shielded Drive Technologies",
+      "doi": "https://doi.org/10.3390/app8020276",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Comparison of different shielding methods in acquisition of physiological signals",
+      "doi": "https://doi.org/10.1109/embc.2017.8037321",
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "CaMg(OH)-4を用いた嫌気性消化槽排水からのりん酸塩回収【Powered by NICT】",
+      "doi": null,
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Clinical value of real-time ultrasound combined with new gastric ultrasound contrast agents in diagnosis of peptic ulcer",
+      "doi": null,
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Fuzzy evaluation on injury surveillance quality in a hospital emergency room",
+      "doi": null,
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "The investigation of virtual detection system in chemical process",
+      "doi": null,
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    },
+    {
+      "title": "Using of Automatic Code Generation Technique to Develop Control Algorithm of Diesel Electronically Controlled System",
+      "doi": null,
+      "reason": "目标作者的索引单位不是太原理工大学，或单位缺失；未纳入风格证据"
+    }
+  ],
+  "excluded_fulltext": {
+    "title": "Graph-based multi-Feature fusion method for speech emotion recognition",
+    "source": "https://arxiv.org/abs/2406.07437v2",
+    "reason": "全文作者单位为同济大学，邮箱2210458@tongji.edu.cn；排除同名作者"
+  },
+  "coverage": {
+    "records": 48,
+    "supported_identity_records": 44,
+    "candidate_identity_records": 4,
+    "fulltext_works": 11,
+    "fulltext_versions": 12,
+    "metadata_only_records": 37
+  },
+  "distribution_note": "本包包含写作规则、题录与来源链接，不包含论文全文。FULL表示本次研究已读到全文，不表示本包附带全文。"
+}
